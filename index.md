@@ -19,12 +19,13 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 
 ### Simplify Healthcare.  2020 to 2023
 
-<details><summary>
+<details>
+  <summary>
 
 **Director of Technology: Solution Architect**
-  
+
 </summary>
- 
+
 > - Installed and engineered the onshore development team to model test-driven development and DevOps best practice for application development companywide.
 > -  Spearheaded enterprise Scaled Agile Framework (SAFe) adoption.  Led transformation-agent responsibilities to maximize utilization and effectiveness resulting in specialized workforce and training of key skills which maximized labor effectiveness over 150%.
 > -  Orchestrated application scalability by defining a smarter standard application which drastically reduced client-specific customizations, allowing faster time to market and the ability to expedite new client adoption.
