@@ -21,7 +21,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 
 <details><summary>
 
-  **Director of Technology: Solution Architect**
+**Director of Technology: Solution Architect**
   
 </summary>
  
@@ -29,7 +29,6 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 > -  Spearheaded enterprise Scaled Agile Framework (SAFe) adoption.  Led transformation-agent responsibilities to maximize utilization and effectiveness resulting in specialized workforce and training of key skills which maximized labor effectiveness over 150%.
 > -  Orchestrated application scalability by defining a smarter standard application which drastically reduced client-specific customizations, allowing faster time to market and the ability to expedite new client adoption.
 > -  Simplified complex client integration and delivery involving multiple applications, systems, teams, and processes. 
->
 </details>
 
 ### Accenture.  1998 to 2020
@@ -37,6 +36,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 <details><summary>
  
 **Data Analytics Strategist.  2017 - 2020** 
+
 </summary>
 
 > Design and develop data analytics solutions for multiple clients, including large healthcare payers, automating data sources and insight based on years of historical data. Manage presale forecasting of cost-saving models based on Teradata and Azure data mining techniques leveraging machine learning. 
@@ -50,7 +50,8 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 
 <details><summary>
 
- **Test Architect.  2010 - 2017**
+**Test Architect.  2010 - 2017**
+ 
 </summary>
 
 > - Coordinated development, automation, and test team efforts for Health Payer ICD10 Conversion resulting in zero critical production issues.
@@ -60,7 +61,8 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 
 <details><summary>
 
- **Application Architect.  1998 - 2010**
+**Application Architect.  1998 - 2010**
+
 </summary>
 
 > Defined key architecture and application solutions necessary to integrate specific requirements for multiple client projects. Acted as company liaise between corporate senior management and client business and technical leads.  Continually improve the quality of our work, the way we deliver it, and the process we employ to attain it. 
@@ -90,6 +92,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 <details><summary>
  
 **Software Developer / Team Lead**
+
 </summary>
 
 > Main software developer for the digital print department.  In charge of a junior developer, innovating with the team to deliver cutting-edge variable digital print technology with Apple development and FaceSpan. 
