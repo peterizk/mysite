@@ -33,10 +33,11 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 </ul>
 </p>
 </details>
-<p></p>
-
+<p>
+  
 ### Accenture.  1998 to 2020
 
+</p>
 <details>
   <summary>
 <b>Data Analytics Strategist.  2017 - 2020</b>
