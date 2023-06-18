@@ -30,11 +30,12 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 > -  Orchestrated application scalability by defining a smarter standard application which drastically reduced client-specific customizations, allowing faster time to market and the ability to expedite new client adoption.
 > -  Simplified complex client integration and delivery involving multiple applications, systems, teams, and processes. 
 >
-> </details>
+</details>
 
 ### Accenture.  1998 to 2020
 
 <details><summary>
+ 
 **Data Analytics Strategist.  2017 - 2020** 
 </summary>
 
@@ -48,7 +49,8 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 </details>
 
 <details><summary>
-**Test Architect.  2010 - 2017**
+
+ **Test Architect.  2010 - 2017**
 </summary>
 
 > - Coordinated development, automation, and test team efforts for Health Payer ICD10 Conversion resulting in zero critical production issues.
@@ -57,26 +59,27 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 </details>
 
 <details><summary>
-**Application Architect.  1998 - 2010**
+
+ **Application Architect.  1998 - 2010**
 </summary>
 
 > Defined key architecture and application solutions necessary to integrate specific requirements for multiple client projects. Acted as company liaise between corporate senior management and client business and technical leads.  Continually improve the quality of our work, the way we deliver it, and the process we employ to attain it. 
 >
 > Key Projects: 
 >
-> #### Federal Financials for US Government Client ####
+> **Federal Financials for US Government Client**
 >
 > As application manager, oversaw design and delivery of all project components, liaising with government personnel to determine financial solutions (such as end-of-month closing and general ledger reconciliation). Developed and implemented digital signature solution cutting processing time from days to hours. ￼ 
 >
-> #### Internal Project: Annual Review Process 
+> **Internal Project: Annual Review Process** 
 >
 > Automated annual review process for approximately 5500 international employees, slashing costs by 90% by creating scalable employee-comparison database; reduced employees needed from ten to three. 
 >
-> #### Global Technology Leader  
+> **Global Technology Leader**  
 >
 > Created Oracle application to improve sales representative productivity; used Mercury and Rational tools to create, assign, prioritize, and resolve issues. 
 >
-> #### Global Nuclear Energy Company 
+> **Global Nuclear Energy Company** 
 >
 > Developed kiosk system with Java interface and bar code scanner capabilities for use in all Midwest plants, increasing daily productivity by more than 25%. Coordinated post-merger system integrations. 
 >
@@ -85,6 +88,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 ### R.R. Donnelley & Sons Co. 1996 - 1998
 
 <details><summary>
+ 
 **Software Developer / Team Lead**
 </summary>
 
