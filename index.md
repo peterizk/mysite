@@ -76,7 +76,7 @@ Defined key architecture and application solutions necessary to integrate specif
 </p>
 Key Projects: 
 <p>
-<b>Federal Financials for US Government Client</b>
+<b>Federal Financials for US Government Client</b><br>
 As application manager, oversaw design and delivery of all project components, liaising with government personnel to determine financial solutions (such as end-of-month closing and general ledger reconciliation). Developed and implemented digital signature solution cutting processing time from days to hours.
 </p>
 <p>
@@ -92,9 +92,11 @@ Created Oracle application to improve sales representative productivity; used Me
 Developed kiosk system with Java interface and bar code scanner capabilities for use in all Midwest plants, increasing daily productivity by more than 25%. Coordinated post-merger system integrations.
 </p>
 </details>
+<p>
 
 ### R.R. Donnelley & Sons Co. 1996 - 1998
 
+</p>
 <details>
   <summary>
 <b>Software Developer / Team Lead</b>
