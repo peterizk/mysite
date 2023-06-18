@@ -3,8 +3,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 
 [Email](mailto:petegrizk@gmail.com) / [Website](https://www.peterizk.com/) / [LinkedIn](https://www.linkedin.com/in/peterizk/) / [GitHub](https://github.com/peterizk/index.md)
 
-
-  ## Highlights
+## Highlights
 
 > **Technology Strategist:** Head of innovation for $20M funded Series B startup for all future PAAS and SAAS offerings. 
 > 
@@ -21,9 +20,9 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 ### Simplify Healthcare.  2020 to 2023
 
 <details><summary>
- 
-#### Director of Technology: Solution Architect
- 
+
+  **Director of Technology: Solution Architect**
+  
 </summary>
  
 > - Installed and engineered the onshore development team to model test-driven development and DevOps best practice for application development companywide.
@@ -36,9 +35,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 ### Accenture.  1998 to 2020
 
 <details><summary>
- 
-#### Data Analytics Strategist.  2017 - 2020 
- 
+**Data Analytics Strategist.  2017 - 2020** 
 </summary>
 
 > Design and develop data analytics solutions for multiple clients, including large healthcare payers, automating data sources and insight based on years of historical data. Manage presale forecasting of cost-saving models based on Teradata and Azure data mining techniques leveraging machine learning. 
@@ -51,9 +48,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 </details>
 
 <details><summary>
-  
-#### Test Architect.  2010 - 2017 
-
+**Test Architect.  2010 - 2017**
 </summary>
 
 > - Coordinated development, automation, and test team efforts for Health Payer ICD10 Conversion resulting in zero critical production issues.
@@ -62,9 +57,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 </details>
 
 <details><summary>
-
-#### Application Architect.  1998 - 2010  
-
+**Application Architect.  1998 - 2010**
 </summary>
 
 > Defined key architecture and application solutions necessary to integrate specific requirements for multiple client projects. Acted as company liaise between corporate senior management and client business and technical leads.  Continually improve the quality of our work, the way we deliver it, and the process we employ to attain it. 
@@ -92,9 +85,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 ### R.R. Donnelley & Sons Co. 1996 - 1998
 
 <details><summary>
- 
-#### Software Developer / Team Lead 
-
+**Software Developer / Team Lead**
 </summary>
 
 > Main software developer for the digital print department.  In charge of a junior developer, innovating with the team to deliver cutting-edge variable digital print technology with Apple development and FaceSpan. 
