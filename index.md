@@ -3,6 +3,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 
 [Email](mailto:petegrizk@gmail.com) / [Website](https://www.peterizk.com/) / [LinkedIn](https://www.linkedin.com/in/peterizk/) / [GitHub](https://github.com/peterizk/index.md)
 
+
   ## Highlights
 
 > **Technology Strategist:** Head of innovation for $20M funded Series B startup for all future PAAS and SAAS offerings. 
@@ -39,6 +40,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 #### Data Analytics Strategist.  2017 - 2020 
  
 </summary>
+
 > Design and develop data analytics solutions for multiple clients, including large healthcare payers, automating data sources and insight based on years of historical data. Manage presale forecasting of cost-saving models based on Teradata and Azure data mining techniques leveraging machine learning. 
 >
 > Key Achievements: 
@@ -47,18 +49,24 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 >  - Design and manage Tableau reporting dashboards, streamlining sales proposal process from days to hours.
 >  - Delivered first at scale pre-sale/guided selling analytic capabilities, advancing client's sales go-to-market approach and identifying customer-specific ROI at quoting. 
 </details>
+
 <details><summary>
   
 #### Test Architect.  2010 - 2017 
+
 </summary>
+
 > - Coordinated development, automation, and test team efforts for Health Payer ICD10 Conversion resulting in zero critical production issues.
 > - Instrumental in guiding Accenture testing framework to testing Center of Excellence.
 > - Applied test first and agile test approaches across multiple projects and clients. 
 </details>
+
 <details><summary>
 
 #### Application Architect.  1998 - 2010  
+
 </summary>
+
 > Defined key architecture and application solutions necessary to integrate specific requirements for multiple client projects. Acted as company liaise between corporate senior management and client business and technical leads.  Continually improve the quality of our work, the way we deliver it, and the process we employ to attain it. 
 >
 > Key Projects: 
@@ -88,6 +96,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 #### Software Developer / Team Lead 
 
 </summary>
+
 > Main software developer for the digital print department.  In charge of a junior developer, innovating with the team to deliver cutting-edge variable digital print technology with Apple development and FaceSpan. 
 >
 </details>
@@ -100,9 +109,9 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 
 ## Education and Credentials
 
-**Master of Business Administration (MBA)**   DePaul University Kellstatadt Graduate School of Business, Chicago, IL
+**Master of Business Administration (MBA)**   DePaul University Kellstatadt Graduate School of Business, Chicago, IL<br>
 **Bachelor of Science, Computer Engineering**   University of Illinois at Chicago<br>
-**Technical Certifications and Training**
+**Technical Certifications and Training**`
 > Microsoft Excel Guru, LinkedIn Skills Badge, 2023<br>
 > Accenture Technology Architecture Certification, 2018<br>
 > Leading SAFe Certified (Scaled Agile Framework), 2018<br>
