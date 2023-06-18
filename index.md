@@ -17,27 +17,26 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 
 ## Professional Accomplishments
 
+
 ### Simplify Healthcare.  2020 to 2023
 
 <details>
   <summary>
-
-Director of Technology: Solution Architect
-
+<b>Director of Technology: Solution Architect</b>
 </summary>
-
+  
 > - Installed and engineered the onshore development team to model test-driven development and DevOps best practice for application development companywide.
 > -  Spearheaded enterprise Scaled Agile Framework (SAFe) adoption.  Led transformation-agent responsibilities to maximize utilization and effectiveness resulting in specialized workforce and training of key skills which maximized labor effectiveness over 150%.
 > -  Orchestrated application scalability by defining a smarter standard application which drastically reduced client-specific customizations, allowing faster time to market and the ability to expedite new client adoption.
 > -  Simplified complex client integration and delivery involving multiple applications, systems, teams, and processes. 
+
 </details>
 
 ### Accenture.  1998 to 2020
 
-<details><summary>
- 
-**Data Analytics Strategist.  2017 - 2020** 
-
+<details>
+  <summary>
+<b>Data Analytics Strategist.  2017 - 2020</b>
 </summary>
 
 > Design and develop data analytics solutions for multiple clients, including large healthcare payers, automating data sources and insight based on years of historical data. Manage presale forecasting of cost-saving models based on Teradata and Azure data mining techniques leveraging machine learning. 
@@ -47,57 +46,56 @@ Director of Technology: Solution Architect
 > - Managed presale analytics, tools, and methodology for large health payer clients by leveraging machine learning to predict sales and ROI for more than eight million members covering 2,000+ self-insured (ASO) accounts.
 >  - Design and manage Tableau reporting dashboards, streamlining sales proposal process from days to hours.
 >  - Delivered first at scale pre-sale/guided selling analytic capabilities, advancing client's sales go-to-market approach and identifying customer-specific ROI at quoting. 
+
 </details>
 
-<details><summary>
-
-**Test Architect.  2010 - 2017**
- 
+<details>
+  <summary>
+<b>Test Architect.  2010 - 2017</b>
 </summary>
 
 > - Coordinated development, automation, and test team efforts for Health Payer ICD10 Conversion resulting in zero critical production issues.
 > - Instrumental in guiding Accenture testing framework to testing Center of Excellence.
 > - Applied test first and agile test approaches across multiple projects and clients. 
+
 </details>
 
-<details><summary>
-
-**Application Architect.  1998 - 2010**
-
+<details>
+  <summary>
+<b>Application Architect.  1998 - 2010</b>
 </summary>
 
 > Defined key architecture and application solutions necessary to integrate specific requirements for multiple client projects. Acted as company liaise between corporate senior management and client business and technical leads.  Continually improve the quality of our work, the way we deliver it, and the process we employ to attain it. 
 >
 > Key Projects: 
 >
-> **Federal Financials for US Government Client**
+>> **Federal Financials for US Government Client**
+>>
+>> As application manager, oversaw design and delivery of all project components, liaising with government personnel to determine financial solutions (such as end-of-month closing and general ledger reconciliation). Developed and implemented digital signature solution cutting processing time from days to hours.
 >
-> As application manager, oversaw design and delivery of all project components, liaising with government personnel to determine financial solutions (such as end-of-month closing and general ledger reconciliation). Developed and implemented digital signature solution cutting processing time from days to hours. ￼ 
+>> **Internal Project: Annual Review Process** 
+>>
+>> Automated annual review process for approximately 5500 international employees, slashing costs by 90% by creating scalable employee-comparison database; reduced employees needed from ten to three. 
 >
-> **Internal Project: Annual Review Process** 
+>> **Global Technology Leader**  
+>>
+>> Created Oracle application to improve sales representative productivity; used Mercury and Rational tools to create, assign, prioritize, and resolve issues. 
 >
-> Automated annual review process for approximately 5500 international employees, slashing costs by 90% by creating scalable employee-comparison database; reduced employees needed from ten to three. 
->
-> **Global Technology Leader**  
->
-> Created Oracle application to improve sales representative productivity; used Mercury and Rational tools to create, assign, prioritize, and resolve issues. 
->
-> **Global Nuclear Energy Company** 
->
-> Developed kiosk system with Java interface and bar code scanner capabilities for use in all Midwest plants, increasing daily productivity by more than 25%. Coordinated post-merger system integrations. 
->
+>> **Global Nuclear Energy Company** 
+>>
+>> Developed kiosk system with Java interface and bar code scanner capabilities for use in all Midwest plants, increasing daily productivity by more than 25%. Coordinated post-merger system integrations.
+
 </details>
 
 ### R.R. Donnelley & Sons Co. 1996 - 1998
 
-<details><summary>
- 
-**Software Developer / Team Lead**
-
+<details>
+  <summary>
+<b>Software Developer / Team Lead</b>
 </summary>
 
 > Main software developer for the digital print department.  In charge of a junior developer, innovating with the team to deliver cutting-edge variable digital print technology with Apple development and FaceSpan. 
->
+
 </details>
 
 ## Proficiencies
