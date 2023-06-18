@@ -104,6 +104,7 @@ Developed kiosk system with Java interface and bar code scanner capabilities for
 Main software developer for the digital print department.  In charge of a junior developer, innovating with the team to deliver cutting-edge variable digital print technology with Apple development and FaceSpan. 
 </p>
 </details>
+<p></p>
 
 ## Proficiencies
 
