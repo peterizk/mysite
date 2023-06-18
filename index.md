@@ -24,11 +24,13 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
   <summary>
 <b>Director of Technology: Solution Architect</b>
 </summary>
-  
+
+>
 > - Installed and engineered the onshore development team to model test-driven development and DevOps best practice for application development companywide.
 > -  Spearheaded enterprise Scaled Agile Framework (SAFe) adoption.  Led transformation-agent responsibilities to maximize utilization and effectiveness resulting in specialized workforce and training of key skills which maximized labor effectiveness over 150%.
 > -  Orchestrated application scalability by defining a smarter standard application which drastically reduced client-specific customizations, allowing faster time to market and the ability to expedite new client adoption.
 > -  Simplified complex client integration and delivery involving multiple applications, systems, teams, and processes. 
+>
 
 </details>
 
@@ -39,6 +41,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 <b>Data Analytics Strategist.  2017 - 2020</b>
 </summary>
 
+>
 > Design and develop data analytics solutions for multiple clients, including large healthcare payers, automating data sources and insight based on years of historical data. Manage presale forecasting of cost-saving models based on Teradata and Azure data mining techniques leveraging machine learning. 
 >
 > Key Achievements: 
@@ -46,6 +49,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 > - Managed presale analytics, tools, and methodology for large health payer clients by leveraging machine learning to predict sales and ROI for more than eight million members covering 2,000+ self-insured (ASO) accounts.
 >  - Design and manage Tableau reporting dashboards, streamlining sales proposal process from days to hours.
 >  - Delivered first at scale pre-sale/guided selling analytic capabilities, advancing client's sales go-to-market approach and identifying customer-specific ROI at quoting. 
+>
 
 </details>
 
@@ -54,9 +58,11 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 <b>Test Architect.  2010 - 2017</b>
 </summary>
 
+>
 > - Coordinated development, automation, and test team efforts for Health Payer ICD10 Conversion resulting in zero critical production issues.
 > - Instrumental in guiding Accenture testing framework to testing Center of Excellence.
 > - Applied test first and agile test approaches across multiple projects and clients. 
+>
 
 </details>
 
@@ -65,6 +71,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 <b>Application Architect.  1998 - 2010</b>
 </summary>
 
+>
 > Defined key architecture and application solutions necessary to integrate specific requirements for multiple client projects. Acted as company liaise between corporate senior management and client business and technical leads.  Continually improve the quality of our work, the way we deliver it, and the process we employ to attain it. 
 >
 > Key Projects: 
@@ -84,6 +91,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 >> **Global Nuclear Energy Company** 
 >>
 >> Developed kiosk system with Java interface and bar code scanner capabilities for use in all Midwest plants, increasing daily productivity by more than 25%. Coordinated post-merger system integrations.
+>
 
 </details>
 
@@ -94,7 +102,9 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 <b>Software Developer / Team Lead</b>
 </summary>
 
+>
 > Main software developer for the digital print department.  In charge of a junior developer, innovating with the team to deliver cutting-edge variable digital print technology with Apple development and FaceSpan. 
+>
 
 </details>
 
