@@ -22,7 +22,7 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 <details>
   <summary>
 
-**Director of Technology: Solution Architect**
+Director of Technology: Solution Architect
 
 </summary>
 
