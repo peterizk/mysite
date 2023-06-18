@@ -33,11 +33,11 @@ _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 </ul>
 </p>
 </details>
-<p>
+<p></p>
   
 ### Accenture.  1998 to 2020
 
-</p>
+
 <details>
   <summary>
 <b>Data Analytics Strategist.  2017 - 2020</b>
@@ -80,23 +80,22 @@ Key Projects:
 As application manager, oversaw design and delivery of all project components, liaising with government personnel to determine financial solutions (such as end-of-month closing and general ledger reconciliation). Developed and implemented digital signature solution cutting processing time from days to hours.
 </p>
 <p>
-<b>Internal Project: Annual Review Process</b>
+<b>Internal Project: Annual Review Process</b><br>
 Automated annual review process for approximately 5500 international employees, slashing costs by 90% by creating scalable employee-comparison database; reduced employees needed from ten to three. 
 </p>
 <p>
-<b>Global Technology Leader</b>
+<b>Global Technology Leader</b><br>
 Created Oracle application to improve sales representative productivity; used Mercury and Rational tools to create, assign, prioritize, and resolve issues. 
 </p>
 <p>
-<b>Global Nuclear Energy Company</b>
+<b>Global Nuclear Energy Company</b><br>
 Developed kiosk system with Java interface and bar code scanner capabilities for use in all Midwest plants, increasing daily productivity by more than 25%. Coordinated post-merger system integrations.
 </p>
 </details>
-<p>
+<p></p>
 
 ### R.R. Donnelley & Sons Co. 1996 - 1998
 
-</p>
 <details>
   <summary>
 <b>Software Developer / Team Lead</b>
