@@ -1,8 +1,9 @@
 
 ---
 title: "Peter Rizk"
-layout: default      # optional; can delete if you like
+layout: default
 ---
+
 <!-- peterizk.com – revamped one-page layout (Jekyll-compatible) -->
 # Peter Rizk
 _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
