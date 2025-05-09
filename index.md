@@ -1,4 +1,11 @@
-markdown<br>---<br>title: Peter Rizk<br>layout: default # minimal theme’s built‑in template<br>---<br>
+---
+title: "Peter Rizk"
+layout: default      # optional; can delete if you like
+---
+
+# Peter Rizk
+Solution Architect · Technical Strategist
+
 <!-- peterizk.com – revamped one-page layout (Jekyll-compatible) -->
 <!DOCTYPE html>
 <html lang="en">
