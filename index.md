@@ -1,3 +1,4 @@
+markdown<br>---<br>title: Peter Rizk<br>layout: default # minimal theme’s built‑in template<br>---<br>
 <!-- peterizk.com – revamped one-page layout (Jekyll-compatible) -->
 <!DOCTYPE html>
 <html lang="en">
