@@ -1,3 +1,105 @@
+<!-- peterizk.com – revamped one-page layout (Jekyll-compatible) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Peter Rizk – Solution Architect & Technical Strategist</title>
+  <link rel="stylesheet" href="/assets/css/tailwind.min.css" />
+  <style>
+    details summary { @apply cursor-pointer font-semibold py-2; }
+    details[open] summary { @apply text-primary-600; }
+  </style>
+</head>
+<body class="font-sans bg-gray-50 text-gray-800">
+  <!-- Hero Banner -->
+  <header class="bg-white shadow-sm">
+    <div class="max-w-5xl mx-auto px-4 py-16 text-center">
+      <h1 class="text-4xl sm:text-5xl font-bold mb-4">Peter Rizk</h1>
+      <p class="text-xl text-gray-600">Solution Architect Director • Digital & Cloud Transformation Specialist</p>
+      <a href="#portfolio" class="mt-6 inline-block bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-500 transition">View Work</a>
+    </div>
+  </header>
+
+  <!-- Highlights / Skills Cards -->
+  <section class="max-w-5xl mx-auto px-4 py-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3" id="highlights">
+    <!-- Example skill cards (feel free to edit) -->
+    <div class="bg-white rounded-2xl p-6 shadow">
+      <h3 class="text-lg font-semibold mb-2">Cloud Migrations</h3>
+      <p>Azure, Adobe AEM as a Cloud Service, AWS EKS.</p>
+    </div>
+    <div class="bg-white rounded-2xl p-6 shadow">
+      <h3 class="text-lg font-semibold mb-2">Omnichannel Architecture</h3>
+      <p>Headless CMS + API Gateways powering web, mobile, kiosks.</p>
+    </div>
+    <div class="bg-white rounded-2xl p-6 shadow">
+      <h3 class="text-lg font-semibold mb-2">DevOps & Blue‑Green CD</h3>
+      <p>Cloud Manager, GitHub Actions, Terraform IaC.</p>
+    </div>
+  </section>
+
+  <!-- Collapsible Résumé Timeline -->
+  <section class="max-w-4xl mx-auto px-4 py-12" id="resume">
+    <h2 class="text-2xl font-bold mb-6">Professional Experience</h2>
+
+    <!-- START: Existing Experiences (keep / edit as needed) -->
+    <details class="bg-white rounded-xl shadow p-4 mb-4">
+      <summary>
+        <span class="flex justify-between items-center">
+          <span>Principal Architect – Fortune‑500 Retailer</span>
+          <span class="text-sm text-gray-500">2023 – Present</span>
+        </span>
+      </summary>
+      <ul class="mt-4 list-disc list-inside space-y-2">
+        <li>Migrated legacy AEM to AEM as a Cloud Service (below case study).</li>
+        <li>Implemented Experience Fragments & Core Components.</li>
+        <li>Cut publish lead‑time from 48 hrs → 6 hrs.</li>
+      </ul>
+    </details>
+
+    <!-- Duplicate & adjust the <details> blocks for each experience row -->
+  </section>
+
+  <!-- Portfolio Grid -->
+  <section class="bg-gray-100 py-12" id="portfolio">
+    <div class="max-w-5xl mx-auto px-4">
+      <h2 class="text-2xl font-bold mb-6">Featured Case Studies</h2>
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+
+        <!-- Case Study Card -->
+        <article class="bg-white rounded-2xl shadow overflow-hidden group">
+          <img src="/assets/images/aem-value-stream.png" alt="AEM Cloud Migration value stream diagram" class="w-full h-40 object-cover group-hover:scale-105 transition" />
+          <div class="p-5 flex flex-col h-full">
+            <h3 class="text-lg font-semibold mb-2">AEM Cloud Migration & Experience Fragments</h3>
+            <p class="text-sm text-gray-600 mb-4 flex-grow">Cut publish lead‑time from 48 hrs to 6 hrs with blue‑green deploys & reusable XFs.</p>
+            <a href="/portfolio/aem-cloud-migration.html" class="inline-block mt-auto text-blue-600 hover:underline">Read More →</a>
+          </div>
+        </article>
+
+        <!-- Add more <article> cards for future projects -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Downloads & Contact -->
+  <section class="max-w-3xl mx-auto px-4 py-12 text-center" id="contact">
+    <h2 class="text-2xl font-bold mb-4">Let’s collaborate</h2>
+    <p class="mb-6">Need help with your cloud migration or omnichannel roadmap? Schedule a free consultation.</p>
+    <!-- Calendly embed as example -->
+    <div class="inline-flex gap-4 flex-wrap justify-center">
+      <a href="https://calendly.com/your‑calendly" class="bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-500 transition">Book 30‑min Call</a>
+      <a href="/assets/Peter_Rizk_Resume.pdf" class="bg-gray-200 text-gray-800 px-6 py-3 rounded-lg shadow hover:bg-gray-300 transition" download>Download Résumé</a>
+    </div>
+  </section>
+
+  <!-- Sticky footer social links -->
+  <footer class="bg-gray-800 text-gray-100 text-center py-4">
+    <p class="text-sm">© 2025 Peter Rizk • <a href="mailto:petegrizk@gmail.com" class="underline">petegrizk@gmail.com</a></p>
+  </footer>
+
+</body>
+</html>
+
 # Peter Rizk
 _Solution Architect and Technology Specialist based in Naperville, IL_ <br>
 
