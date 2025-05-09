@@ -3,6 +3,7 @@ title: "Peter Rizk"
 layout: default      # optional; can delete if you like
 ---
 <!-- peterizk.com – revamped one-page layout (Jekyll-compatible) -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
